@@ -132,26 +132,7 @@ Scatter plot visualizing the polarity and subjectivity of reviews, with points c
 
 ---
 
-## Contributing
 
-Contributions are welcome! Follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request on GitHub.
-
----
 
 ## License
 
